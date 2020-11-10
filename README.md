@@ -1,2 +1,0 @@
-# powder-web
-powder app
